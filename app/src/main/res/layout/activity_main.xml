@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@android:style/Widget.DeviceDefault.TextView.SpinnerItem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:singleLine="false"
+        android:soundEffectsEnabled="false"
+        android:text="Shreshth\n2018UIT2528"
+        android:textAllCaps="true"
+        android:textColor="#CC2525"
+        android:textSize="100dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
